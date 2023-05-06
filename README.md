@@ -1,8 +1,10 @@
 ## R Button Saving
 
-Starting in USUM, you are able to save the game simply by opening the menu and hitting the R button. This ports that feature to FR ROMs.
+Starting in USUM, you are able to save the game simply by opening the menu and hitting the R button, without needing to move the cursor down to the option. This ports that feature to FR ROMs.
 
 This doesn't work if you have the in-game Help system enabled, so make sure you use `LR` or `L=A` button modes.
+
+![](bpre-save-button.gif)
 
 ### Build Instructions
 
